@@ -1,1 +1,3 @@
-Music Player Live Demo:- https://pratikzagade.github.io/MusicPlayer/
+🎧 Check Out My Music Player Live Demo!
+LINK:- https://pratikzagade.github.io/MusicPlayer/
+
